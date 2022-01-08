@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 [![Aishik Tokdar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishik2005)](https://github.com/aishik2005/github-readme-stats)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“UNIX is simple.  It just takes a genius to understand its simplicity.”— Dennis Ritchie   ❞</i>
+<i>❝“Perl: The only language that looks the same before and after RSA encryption.”— Keith Bostic   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
