@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 [![Aishik Tokdar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishik2005)](https://github.com/aishik2005/github-readme-stats)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Passwords are like underwear: you don’t let people see it, you should change it very often, and you shouldn’t share it with strangers.”— Chris Pirillo   ❞</i>
+<i>❝“I am not out to destroy Microsoft, that would be a completely unintended side effect.”— Linus Torvalds   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
