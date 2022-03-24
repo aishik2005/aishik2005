@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 [![Aishik Tokdar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishik2005)](https://github.com/aishik2005/github-readme-stats)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The most likely way for the world to be destroyed, most experts agree, is by accident.  That’s where we come in; we’re computer professionals.  We cause accidents.”— Nathaniel Borenstein   ❞</i>
+<i>❝“Your most unhappy customers are your greatest source of learning.”— Bill Gates   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
