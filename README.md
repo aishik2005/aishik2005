@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 [![Aishik Tokdar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishik2005)](https://github.com/aishik2005/github-readme-stats)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.”— Dave Parnas   ❞</i>
+<i>❝IBM was so powerful in 1983 that people feared that its PCjr home computer would destroy Apple, Commodore, and all other competitors. The PCjr became “one of the biggest flops in the history of computing”.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
