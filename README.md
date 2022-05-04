@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 [![Aishik Tokdar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishik2005)](https://github.com/aishik2005/github-readme-stats)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“A program is never less than 90% complete, and never more than 95% complete.”— Terry Baker   ❞</i>
+<i>❝elgoog.im (Google spelled backwards) is a mirrored website of Google Search with horizontally flipped search results, also known as a “Google mirror”. An unofficial elgooG website was created by All Too Flat “for fun”, which started to gain popularity in 2002❞</i>
 <!--ENDS_HERE_QUOTE_README-->
